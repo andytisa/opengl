@@ -3,6 +3,9 @@
 #include <iostream>
 #include "ShaderCreator.h"
 #include "TextureCreator.h"
+#include <glm/glm.hpp>
+#include <glm/gtc/matrix_transform.hpp>
+#include <glm/gtc/type_ptr.hpp>
 
 //GLenum err;
 //while ((err = glGetError()) != GL_NO_ERROR) {
